@@ -11,6 +11,10 @@ on:
       - "requirements.txt"
       - ".github/workflows/build-articles.yml"
 
+permissions:
+  contents: write
+
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
