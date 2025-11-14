@@ -7,12 +7,12 @@ sources:
   - id: ltn_forum
     name: 自由時報－論壇
     rss: "https://news.ltn.com.tw/rss/opinion.xml"
-    max_items: 30
+    max_items: 10
 
   - id: cna_politics
     name: 中央社－政治
-    rss: "https://www.cna.com.tw/rss/politics.xml"
-    max_items: 20
+    rss: "https://feeds.feedburner.com/rsscna/intworld"
+    max_items: 10
 
   - id: businessweekly_column
     name: 商周－專欄
