@@ -1,0 +1,42 @@
+name: Build articles.json and publish to gh-pages
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # 每 30 分鐘跑一次
+  workflow_dispatch:         # 手動觸發
+  push:
+    paths:
+      - "backend/**"
+      - "public/**"
+      - "requirements.txt"
+      - ".github/workflows/build-articles.yml"
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Generate articles.json
+        run: |
+          python backend/fetch_articles.py
+
+      - name: Deploy to gh-pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          publish_branch: gh-pages
+          force_orphan: true

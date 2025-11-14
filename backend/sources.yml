@@ -1,0 +1,20 @@
+sources:
+  - id: china_times_opinion
+    name: 中時新聞網－言論
+    rss: "https://www.chinatimes.com/rss/opinion.xml"
+    max_items: 30
+
+  - id: ltn_forum
+    name: 自由時報－論壇
+    rss: "https://news.ltn.com.tw/rss/opinion.xml"
+    max_items: 30
+
+  - id: cna_politics
+    name: 中央社－政治
+    rss: "https://www.cna.com.tw/rss/politics.xml"
+    max_items: 20
+
+  - id: businessweekly_column
+    name: 商周－專欄
+    rss: "https://www.businessweekly.com.tw/rss/opinion.xml"
+    max_items: 20
