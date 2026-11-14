@@ -1,0 +1,207 @@
+{
+  "generated_at": "2026-11-14T08:40:34.319083+00:00",
+  "source_count": 4,
+  "article_count": 20,
+  "articles": [
+    {
+      "id": "cna_politics::CNA/2026-11-14/202611140125",
+      "source_id": "cna_politics",
+      "source_name": "中央社－政治",
+      "title": "加拿大總理：已與川普談話　美加貿易協議取得進展",
+      "url": "https://www.cna.com.tw/news/aopl/202611140125.aspx",
+      "summary_raw": "（中央社馬尼拉14日綜合外電報導）加拿大總理卡尼今天表示，他已與美國總統川普（Donald Trump）進行長時間且具實質意義的談話，兩國正朝達成貿易協議的方向取得進展，不過目前尚未達成協議。",
+      "categories_raw": [],
+      "published_at": "2026-11-14T07:35:53+00:00"
+    },
+    {
+      "id": "cna_politics::CNA/2026-11-14/202611140119",
+      "source_id": "cna_politics",
+      "source_name": "中央社－政治",
+      "title": "微軟：消費產品服務全面恢復",
+      "url": "https://www.cna.com.tw/news/aopl/202611140119.aspx",
+      "summary_raw": "（中央社舊金山13日綜合外電報導）全球軟體巨擘微軟（Microsoft）表示，消費產品服務已於「協調世界時」（UTC）今天下午4時10分全面恢復（格林威治時間16時10分），Microsoft 365企業服務則正逐步恢復。",
+      "categories_raw": [],
+      "published_at": "2026-11-14T07:27:40+00:00"
+    },
+    {
+      "id": "cna_politics::CNA/2026-11-14/202611140118",
+      "source_id": "cna_politics",
+      "source_name": "中央社－政治",
+      "title": "多國領袖前晚剛聚餐　都柏林峰會晚宴旁現爆裂物",
+      "url": "https://www.cna.com.tw/news/aopl/202611140118.aspx",
+      "summary_raw": "（中央社都柏林13日綜合外電報導）愛爾蘭陸軍拆彈專家今天在首都都柏林市中心一棟辦公大樓安全拆除一枚簡陋但具殺傷力的爆裂物；各國領袖一天前才在附近的峰會晚宴地點共進晚餐。",
+      "categories_raw": [],
+      "published_at": "2026-11-14T07:23:38+00:00"
+    },
+    {
+      "id": "cna_politics::CNA/2026-11-14/202611140116",
+      "source_id": "cna_politics",
+      "source_name": "中央社－政治",
+      "title": "華爾街日報：黃仁勳風波背後　中國龐大間諜網鎖定AI與晶片技術",
+      "url": "https://www.cna.com.tw/news/aopl/202611140116.aspx",
+      "summary_raw": "（中央社紐約13日綜合外電報導）中國國家安全部長陳一新9月警告，人工智慧（AI）正威脅中國共產黨的「政治、制度及意識形態安全」，並稱掌握AI就能掌握時代脈動。美國官員擔心，中國間諜可能已成功掌握AI熱潮背後最受矚目的人物之一。",
+      "categories_raw": [],
+      "published_at": "2026-11-14T07:17:33+00:00"
+    },
+    {
+      "id": "cna_politics::CNA/2026-11-14/202611140115",
+      "source_id": "cna_politics",
+      "source_name": "中央社－政治",
+      "title": "新加坡扣黃樂護照8個月　查輝達晶片案獲美協助有限",
+      "url": "https://www.cna.com.tw/news/aopl/202611140115.aspx",
+      "summary_raw": "（中央社新加坡13日綜合外電報導）新加坡當局於2025年6月扣押時任Megaspeed執行長黃樂的護照，並扣留長達8個月阻止她出境；在此期間，新加坡試圖尋求美國政府協助，以調查輝達先進晶片可能遭運往中國一案。",
+      "categories_raw": [],
+      "published_at": "2026-11-14T07:10:31+00:00"
+    },
+    {
+      "id": "ltn_forum::https://talk.ltn.com.tw/article/breakingnews/5637490",
+      "source_id": "ltn_forum",
+      "source_name": "自由時報－論壇",
+      "title": "自由開講》「閩客共用詞」揭台語正確本字—從「尋」變「揣」看兩岸「書同文」之弊端",
+      "url": "https://talk.ltn.com.tw/article/breakingnews/5637490",
+      "summary_raw": "「尋找」義的台語tshue（或tshe）本字為何？本來有共識而無爭議，因教育部台語辭典推出「揣」字，引起爭議和混亂。筆者試圖以「共用詞」概念化解之，卻牽出一個兩岸閩南語「書同文」的秘辛...…",
+      "categories_raw": [],
+      "published_at": "2026-11-14T07:00:00+00:00"
+    },
+    {
+      "id": "cna_politics::CNA/2026-11-14/202611140112",
+      "source_id": "cna_politics",
+      "source_name": "中央社－政治",
+      "title": "日本京成Skyliner遭不當存取337萬筆個資恐外洩　暫停開放預約",
+      "url": "https://www.cna.com.tw/news/aopl/202611140112.aspx",
+      "summary_raw": "（中央社東京14日綜合外電報導）日本京成電鐵公司13日宣布，往返東京市區與成田機場的特級列車「京成Skyliner」的座位預約系統本月11日遭到不當存取，最多恐有337萬筆個資外洩，鐵路公司已暫停開放預約。",
+      "categories_raw": [],
+      "published_at": "2026-11-14T06:47:24+00:00"
+    },
+    {
+      "id": "cna_politics::CNA/2026-11-14/202611140111",
+      "source_id": "cna_politics",
+      "source_name": "中央社－政治",
+      "title": "教宗重返第二故鄉　百萬人夾道歡迎",
+      "url": "https://www.cna.com.tw/news/aopl/202611140111.aspx",
+      "summary_raw": "（中央社秘魯奇克拉約13日綜合外電報導）羅馬天主教教宗良十四世（Pope Leo XIV）今天重返他的第二故鄉秘魯奇克拉約（Chiclayo），約有100萬人夾道歡迎。",
+      "categories_raw": [],
+      "published_at": "2026-11-14T06:43:22+00:00"
+    },
+    {
+      "id": "cna_politics::CNA/2026-11-14/202611140109",
+      "source_id": "cna_politics",
+      "source_name": "中央社－政治",
+      "title": "日本自衛官薪資全面調升　防長小泉進次郎：達史上最高水準",
+      "url": "https://www.cna.com.tw/news/aopl/202611140109.aspx",
+      "summary_raw": "（中央社東京14日綜合外電報導）日本政府全面調高自衛官基本薪資的「防衛省職員薪資等相關法律修正案」，13日在參議院全體會議表決通過，正式成立。",
+      "categories_raw": [],
+      "published_at": "2026-11-14T06:31:18+00:00"
+    },
+    {
+      "id": "cna_politics::CNA/2026-11-14/202611140102",
+      "source_id": "cna_politics",
+      "source_name": "中央社－政治",
+      "title": "馬斯克加入連署行列　呼籲讓黃仁勳重返輝達掌舵",
+      "url": "https://www.cna.com.tw/news/aopl/202611140102.aspx",
+      "summary_raw": "（中央社華盛頓13日綜合外電報導）輝達（Nvidia）執行長黃仁勳承認與一名疑似中國間諜的女子發生婚外情並請辭，科技業億萬富豪馬斯克今天表示，已簽署要求讓黃仁勳復職的連署信，加入呼籲讓他重返輝達的行列。",
+      "categories_raw": [],
+      "published_at": "2026-11-14T05:56:02+00:00"
+    },
+    {
+      "id": "cna_politics::CNA/2026-11-14/202611140099",
+      "source_id": "cna_politics",
+      "source_name": "中央社－政治",
+      "title": "埃及開放醫療撤離　提供加薩傷病患一道生機",
+      "url": "https://www.cna.com.tw/news/aopl/202611140099.aspx",
+      "summary_raw": "（中央社記者施婉清開羅14日專電）加薩停火協議自去年10月生效以來，以色列仍持續對加薩發動攻擊，當地醫療體系在戰火中飽受摧殘，大批傷患仍急需外界醫療援助。埃及透過開放醫療通道，接收加薩傷病患至埃及治療，成為巴勒斯坦人尋求生機的一道重要出口。",
+      "categories_raw": [],
+      "published_at": "2026-11-14T05:48:56+00:00"
+    },
+    {
+      "id": "ltn_forum::https://talk.ltn.com.tw/article/breakingnews/5640499",
+      "source_id": "ltn_forum",
+      "source_name": "自由時報－論壇",
+      "title": "名家分享~呂昱》當年不肯投降，今天卻忙著勸降？",
+      "url": "https://talk.ltn.com.tw/article/breakingnews/5640499",
+      "summary_raw": "▼從余英時、明居正到梁文傑：國共歷史的教訓，究竟被誰遺忘？\n\n\n一個曾經高喊「反共抗俄」、以「漢賊不兩立」教育幾代人民的政黨，如今面對中國共產黨，卻不斷有人將政治妥協包裝成和平，把台灣的...…",
+      "categories_raw": [],
+      "published_at": "2026-11-14T05:30:00+00:00"
+    },
+    {
+      "id": "ltn_forum::https://talk.ltn.com.tw/article/breakingnews/5635545",
+      "source_id": "ltn_forum",
+      "source_name": "自由時報－論壇",
+      "title": "自由開講》從營養午餐食安問題，談被錯用的2個醫學名詞",
+      "url": "https://talk.ltn.com.tw/article/breakingnews/5635545",
+      "summary_raw": "本來是好意的免費營養午餐，因為造成食用者成群出現腸胃道症狀，因而引發不同陣營有不同說法。我發現不少人在這樣的爭論中，使用了很不明確的醫學名詞，卻一直沒有人指出這些錯誤。在這裡想介...…",
+      "categories_raw": [],
+      "published_at": "2026-11-14T04:30:00+00:00"
+    },
+    {
+      "id": "ltn_forum::https://talk.ltn.com.tw/article/breakingnews/5639927",
+      "source_id": "ltn_forum",
+      "source_name": "自由時報－論壇",
+      "title": "黑暗流浪者》羅大佑言論得罪了幾個族群？",
+      "url": "https://talk.ltn.com.tw/article/breakingnews/5639927",
+      "summary_raw": "我已經分不清羅大佑到底是想幫蔣萬安，還是想害他了，他這一番言論至少得罪了幾個族群：\n\n\n\n\n\n1.首先最大宗的當然是女性族群，只要不是那種對父權習慣成自然的阿信，應該都難以忍受這種...…",
+      "categories_raw": [],
+      "published_at": "2026-11-14T03:30:00+00:00"
+    },
+    {
+      "id": "ltn_forum::https://talk.ltn.com.tw/article/breakingnews/5634777",
+      "source_id": "ltn_forum",
+      "source_name": "自由時報－論壇",
+      "title": "自由開講》澳洲食安法制與法治成功經驗（十一）：露天餐飲特許執照與走廊租金反向勾稽的地方議會微觀治理機制",
+      "url": "https://talk.ltn.com.tw/article/breakingnews/5634777",
+      "summary_raw": "【前言】\n\n\n城市治理的法治破口常藏在店家門前的凹入式走廊與騎樓。商家常以私人產權為由佔用人行空間，造成公共通行受阻。然而在澳洲，只要被劃入公眾通行地役權，使用權...…",
+      "categories_raw": [],
+      "published_at": "2026-11-14T03:00:00+00:00"
+    },
+    {
+      "id": "ltn_forum::https://talk.ltn.com.tw/article/breakingnews/5637612",
+      "source_id": "ltn_forum",
+      "source_name": "自由時報－論壇",
+      "title": "自由開講》看中國影劇≠想被中共統一",
+      "url": "https://talk.ltn.com.tw/article/breakingnews/5637612",
+      "summary_raw": "最近中共官媒大肆炒作「台灣年輕人愛看中劇」的新聞，表面上是單純報導流行文化的吸引力，這實際上就是一場精心佈局的「文化統戰」手法。中共刻意將影視娛樂包裝成「蜜糖」，目的就是要向我國的收...…",
+      "categories_raw": [],
+      "published_at": "2026-11-14T02:30:00+00:00"
+    },
+    {
+      "id": "ltn_forum::https://talk.ltn.com.tw/article/breakingnews/5639762",
+      "source_id": "ltn_forum",
+      "source_name": "自由時報－論壇",
+      "title": "自由開講》 從「萬安警報」到「兩克香鬆」：蔣陣營選戰為何越打越卡？",
+      "url": "https://talk.ltn.com.tw/article/breakingnews/5639762",
+      "summary_raw": "選戰倒數時刻，蔣萬安陣營推出《萬安警報》文宣，本欲築防線抗衝擊，卻暴露質感退化與邏輯斷層。文宣採用傳統「80磅銅版紙」與「正反一折」，排版倒退數十年；標題易引發「趕快避難」負面聯...…",
+      "categories_raw": [],
+      "published_at": "2026-11-14T02:30:00+00:00"
+    },
+    {
+      "id": "ltn_forum::https://talk.ltn.com.tw/article/breakingnews/5634672",
+      "source_id": "ltn_forum",
+      "source_name": "自由時報－論壇",
+      "title": "自由開講》黃士修論述的3個邏輯缺口",
+      "url": "https://talk.ltn.com.tw/article/breakingnews/5634672",
+      "summary_raw": "核電公投進入公開論辯階段，原本應是檢驗台灣能源政策論證品質的機會。\n\n\n然而，黃士修近日評論反方代表，卻將代表資格、光電爭議與能源技術連結成一套政策論述，再從光電的限制推導重啟核...…",
+      "categories_raw": [],
+      "published_at": "2026-11-14T02:00:00+00:00"
+    },
+    {
+      "id": "ltn_forum::https://talk.ltn.com.tw/article/breakingnews/5636011",
+      "source_id": "ltn_forum",
+      "source_name": "自由時報－論壇",
+      "title": "自由開講》AI股災下的金融焦慮：別讓長輩賠掉人生下半場",
+      "url": "https://talk.ltn.com.tw/article/breakingnews/5636011",
+      "summary_raw": "近日美國科技股與半導體市場劇烈震盪，台積電等企業股價承壓。AI浪潮帶來成長想像，也提醒我們：科技投資的風險，最終會落在每個家庭身上。其中最容易被忽略的，是退休後缺乏穩定收入的長輩...…",
+      "categories_raw": [],
+      "published_at": "2026-11-14T01:30:00+00:00"
+    },
+    {
+      "id": "ltn_forum::https://talk.ltn.com.tw/article/breakingnews/5634307",
+      "source_id": "ltn_forum",
+      "source_name": "自由時報－論壇",
+      "title": "自由開講》當洋流遇上《女人我最大》 看跨界「雙向破圈」",
+      "url": "https://talk.ltn.com.tw/article/breakingnews/5634307",
+      "summary_raw": "立委沈伯洋登上藍心湄主持長達二十四年的節目《女人我最大》，引發強烈「洋流跨界破圈效應」。這不僅是近年台灣政治傳播代表性的創新實驗，更折射出社群時代資訊攻防的結構演變。古人常...…",
+      "categories_raw": [],
+      "published_at": "2026-11-14T01:00:00+00:00"
+    }
+  ]
+}
